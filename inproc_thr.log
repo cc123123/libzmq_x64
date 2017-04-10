@@ -1,0 +1,9 @@
+﻿  ConfigurationType : Application
+  Configuration     : ReleaseDEXE
+  PlatformToolset   : v141
+  TargetPath        : C:\Users\user\Downloads\libzmq-master\builds\msvc\vs2017\inproc_thr\..\..\..\..\bin\x64\Release\v141\dynamic\inproc_thr.exe
+  Linkage-libzmq    : dynamic
+  inproc_thr.cpp
+  inproc_thr.vcxproj -> C:\Users\user\Downloads\libzmq-master\builds\msvc\vs2017\inproc_thr\..\..\..\..\bin\x64\Release\v141\dynamic\inproc_thr.exe
+  Copying libzmq.dll -> C:\Users\user\Downloads\libzmq-master\bin\x64\Release\v141\dynamic\libzmq.dll
+C:\Users\user\Downloads\libzmq-master\builds\msvc\vs2017\libzmq.import.props(51,5): error MSB3030: 無法複製檔案 "C:\Users\user\Downloads\libzmq-master\builds\msvc\vs2017\inproc_thr\..\..\..\..\..\libzmq\bin\x64\Release\v141\dynamic\libzmq.dll"，因為找不到檔案。
